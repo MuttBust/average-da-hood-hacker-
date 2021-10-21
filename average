@@ -1,6 +1,6 @@
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Skidder-dot/roseware/main/ok"))()
 
-local Window = library:AddWindow("kittenassist.crack v2", {
+local Window = library:AddWindow("Astolfo's Fixed Kittenassist | The best free one (i think)", {
     main_color = Color3.fromRGB(10, 10, 10),
     min_size = Vector2.new(450, 500),
     toggle_key = Enum.KeyCode.RightShift,
